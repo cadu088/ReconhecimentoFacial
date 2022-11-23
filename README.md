@@ -9,4 +9,4 @@ Trabalho projeto integrador sobre reconhecimento facial.
 ![Slide6](https://user-images.githubusercontent.com/72260079/203525092-fd4aeb22-901b-40dd-b1a5-9820e4064a04.JPG)
 ![Slide7](https://user-images.githubusercontent.com/72260079/203525098-cc9565ed-d7d9-480f-bc67-df177d0ffd0f.JPG)
 
-[Apresentação](https://github.com/cadu088/ReconhecimentoFacial/files/10074649/Deteccao.de.expressoes.pptx)
+[Apresentação final](https://github.com/cadu088/ReconhecimentoFacial/files/10079474/TRAB_MAU_ALTERADO_DANIELMP4.pptx)
