@@ -1,10 +1,12 @@
 # ReconhecimentoFacial
 Trabalho projeto integrador sobre reconhecimento facial.
-[Detecção de expressões.pptx](https://github.com/cadu088/ReconhecimentoFacial/files/10072161/Deteccao.de.expressoes.pptx)
-![Slide1](https://user-images.githubusercontent.com/72260079/203450272-4616c0f1-dbc6-4327-98e4-b873f0976a29.PNG)
-![Slide2](https://user-images.githubusercontent.com/72260079/203450282-e1d4ef5b-2b47-425c-adc2-66e895d5e5a7.PNG)
-![Slide3](https://user-images.githubusercontent.com/72260079/203450284-ec751eff-1b21-4b45-ba93-aa464a0a3907.PNG)
-![Slide4](https://user-images.githubusercontent.com/72260079/203450286-de61927e-4ef6-4d27-a695-1dfc35898b7c.PNG)
-![Slide5](https://user-images.githubusercontent.com/72260079/203450289-1dd0ec9c-25c4-4127-9d08-8af5d3896fb2.PNG)
-![Slide6](https://user-images.githubusercontent.com/72260079/203450291-40ce1d9e-f107-4ecd-a7a3-c52f2cfc62d9.PNG)
-![Slide7](https://user-images.githubusercontent.com/72260079/203450297-3ee5ca30-37fb-478c-aaa0-c3937d8ee10b.PNG)
+
+![Slide1](https://user-images.githubusercontent.com/72260079/203525064-057b6d4e-e9f5-4576-9a9d-a3cfb7c9f6c8.JPG)
+![Slide2](https://user-images.githubusercontent.com/72260079/203525074-f828ac63-2338-4f63-b74c-8b61b7ad48e6.JPG)
+![Slide3](https://user-images.githubusercontent.com/72260079/203525078-e1bf4dee-8538-4120-b950-2d303622c073.JPG)
+![Slide4](https://user-images.githubusercontent.com/72260079/203525082-d0336000-2c27-4a9a-8db2-616b4e04b854.JPG)
+![Slide5](https://user-images.githubusercontent.com/72260079/203525086-939d1bf9-d73d-4295-b684-3d317fb6b369.JPG)
+![Slide6](https://user-images.githubusercontent.com/72260079/203525092-fd4aeb22-901b-40dd-b1a5-9820e4064a04.JPG)
+![Slide7](https://user-images.githubusercontent.com/72260079/203525098-cc9565ed-d7d9-480f-bc67-df177d0ffd0f.JPG)
+
+[Apresentação](https://github.com/cadu088/ReconhecimentoFacial/files/10074649/Deteccao.de.expressoes.pptx)
